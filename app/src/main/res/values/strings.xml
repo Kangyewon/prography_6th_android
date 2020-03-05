@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prography 6th android</string>
+    <string name="calls">CALLS</string>
+    <string name="chats">CHATS</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="release_date">release_date</string>
+    <string name="title">title</string>
+    <string name="rt_score">rt_score</string>
+    <string name="director">director</string>
+    <string name="producer">producer</string>
+    <string name="description">description</string>
+    <string name="num">num</string>
+</resources>
